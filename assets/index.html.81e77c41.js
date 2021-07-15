@@ -1,0 +1,1 @@
+import{o as e,c as r,a,b as i}from"./app.9be6d78c.js";const n={},p={id:"principle",tabindex:"-1"},c=a("a",{class:"header-anchor",href:"#principle","aria-hidden":"true"},"#",-1),d=i(" principle");n.render=function(a,i){return e(),r("h2",p,[c,d])};export default n;
