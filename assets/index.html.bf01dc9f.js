@@ -1,0 +1,1 @@
+const e={key:"v-6f11ae20",path:"/other/regex/",title:"正则表达式",lang:"zh-CN",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],filePathRelative:"other/regex/README.md",git:{updatedTime:1626430152e3,contributors:[{name:"Oops",email:"857901398@qq.com",commits:1}]}};export{e as data};

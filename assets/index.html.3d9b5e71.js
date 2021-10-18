@@ -1,0 +1,1 @@
+const t={key:"v-65010609",path:"/optimization/",title:"性能优化",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"optimization/README.md",git:{updatedTime:1626942747e3,contributors:[{name:"Oops",email:"857901398@qq.com",commits:1}]}};export{t as data};

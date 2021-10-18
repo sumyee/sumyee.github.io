@@ -1,0 +1,1 @@
+const e={key:"v-752258f5",path:"/engineering/",title:"webpack 4",lang:"zh-CN",frontmatter:{title:"webpack 4"},excerpt:"",headers:[],filePathRelative:"engineering/README.md",git:{updatedTime:1626430152e3,contributors:[{name:"Oops",email:"857901398@qq.com",commits:1}]}};export{e as data};

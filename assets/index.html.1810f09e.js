@@ -1,0 +1,1 @@
+import{o as a,c as r,a as e,b as d}from"./app.d8cb38ab.js";const n={},s={id:"性能优化",tabindex:"-1"},t=e("a",{class:"header-anchor",href:"#性能优化","aria-hidden":"true"},"#",-1),o=d(" 性能优化");n.render=function(e,d){return a(),r("h1",s,[t,o])};export default n;
